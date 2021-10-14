@@ -3,12 +3,78 @@
         "administrative_division": "State of Malaysia",
         "state": "Johor",
         "capital": "Johor Bahru",
-        "royal_capital_": "Muar"
+        "royal_capital": "Muar"
     },
     {
         "administrative_division": "State of Malaysia",
         "state": "Kedah",
         "capital": "Alor Setar",
         "royal_capital": "Anak Bukit"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Kelantan",
+        "capital": "Kota Bharu",
+        "royal_capital": "Kubang Kerian"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Malacca",
+        "capital": "Malacca City",
+        "royal_capital": "-"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Negeri Sembilan",
+        "capital": "Seremban",
+        "royal_capital": "Seri Menanti"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Pahang",
+        "capital": "Kuantan",
+        "royal_capital": "Pekan"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Penang",
+        "capital": "George Town",
+        "royal_capital": "-"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Perak",
+        "capital": "Ipoh",
+        "royal_capital": "Kuala Kangsar"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Perlis",
+        "capital": "Kangar",
+        "royal_capital": "Arau"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Sabah",
+        "capital": "Kota Kinabalu",
+        "royal_capital": "-"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Sarawak",
+        "capital": "Kuching",
+        "royal_capital": "-"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Selangor",
+        "capital": "Shah Alam",
+        "royal_capital": "Klang"
+    },
+    {
+        "administrative_division": "State of Malaysia",
+        "state": "Terengganu",
+        "capital": "Kuala Terengganu",
+        "royal_capital": "Kuala Terengganu"
     }
 ]
