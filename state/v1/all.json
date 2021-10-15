@@ -76,5 +76,23 @@
         "state": "Terengganu",
         "capital": "Kuala Terengganu",
         "royal_capital": "Kuala Terengganu"
+    },
+    {
+        "administrative_division": "Federal Territory of Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "capital": "Kuala Lumpur",
+        "royal_capital": ""
+    },
+    {
+        "administrative_division": "Federal Territory of Labuan",
+        "state": "Labuan",
+        "capital": "Victoria",
+        "royal_capital": ""
+    },
+    {
+        "administrative_division": "Federal Territory of Putrajaya",
+        "state": "Putrajaya",
+        "capital": "Putrajaya",
+        "royal_capital": ""
     }
 ]
