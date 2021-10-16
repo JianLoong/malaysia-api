@@ -14,11 +14,28 @@ The states and federal territories of Malaysia are the principal administrative 
 
 # List of End Points
 
-| State    | URI                     |
-| -------- | ----------------------- |
-| All      | /state/v1/all.json      |
-| Selangor | /state/v1/selangor.json |
-| Perlis   | /state/v1/perlis.json   |
+The current base url is https://jianliew.me/malaysia-api
+
+| State / Federal Territories | End Point                      |
+| --------------------------- | ------------------------------ |
+| All                         | /state/v1/all.json             |
+| Johor                       | /state/v1/johor.json           |
+| Kedah                       | /state/v1/kedah.json           |
+| Kelantan                    | /state/v1/kelantan.json        |
+| Malacca                     | /state/v1/malacca.json         |
+| Negeri Sembilan             | /state/v1/negeri_sembilan.json |
+| Pahang                      | /state/v1/pahang.json          |
+| Penang                      | /state/v1/penang.json          |
+| Perak                       | /state/v1/perak.json           |
+| Kedah                       | /state/v1/kedah.json           |
+| Perlis                      | /state/v1/perlis.json          |
+| Sabah                       | /state/v1/Sabah.json           |
+| Sarawak                     | /state/v1/Sarawak.json         |
+| Selangor                    | /state/v1/selangor.json        |
+| Terengganu                  | /state/v1/terengganu.json      |
+| Kuala Lumpur                | /state/v1/kuala_lumpur.json    |
+| Labuan                      | /state/v1/labuan.json          |
+| Putrajaya                   | /state/v1/putrajaya.json       |
 
 # Usage Example
 
