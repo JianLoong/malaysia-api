@@ -27,7 +27,7 @@ The current base url is [https://jianliew.me/malaysia-api](https://jianliew.me/m
 | Malacca                     | /state/v1/malacca.json         |        |                                                                        |
 | Negeri Sembilan             | /state/v1/negeri_sembilan.json | x      | [Test](https://jianliew.me/malaysia-api/state/v1/negeri_sembilan.json) |
 | Pahang                      | /state/v1/pahang.json          |        |                                                                        |
-| Penang                      | /state/v1/penang.json          |        |                                                                        |
+| Penang                      | /state/v1/penang.json          | x      |                                                                        |
 | Perak                       | /state/v1/perak.json           |        |                                                                        |
 | Perlis                      | /state/v1/perlis.json          | x      | [Test](https://jianliew.me/malaysia-api/state/v1/perlis.json)          |
 | Sabah                       | /state/v1/sabah.json           |        |                                                                        |
