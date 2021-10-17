@@ -30,8 +30,8 @@ The current base url is [https://jianliew.me/malaysia-api](https://jianliew.me/m
 | Penang                      | /state/v1/penang.json          |        |                                                                        |
 | Perak                       | /state/v1/perak.json           |        |                                                                        |
 | Perlis                      | /state/v1/perlis.json          | x      | [Test](https://jianliew.me/malaysia-api/state/v1/perlis.json)          |
-| Sabah                       | /state/v1/Sabah.json           |        |                                                                        |
-| Sarawak                     | /state/v1/Sarawak.json         |        |                                                                        |
+| Sabah                       | /state/v1/sabah.json           |        |                                                                        |
+| Sarawak                     | /state/v1/sarawak.json         |        |                                                                        |
 | Selangor                    | /state/v1/selangor.json        | x      | [Test](https://jianliew.me/malaysia-api/state/v1/selangor.json)        |
 | Terengganu                  | /state/v1/terengganu.json      |        |                                                                        |
 | Kuala Lumpur                | /state/v1/kuala_lumpur.json    | x      |                                                                        |
