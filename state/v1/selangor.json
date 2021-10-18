@@ -7,6 +7,8 @@
     "chinese_name_simplified": "雪兰莪",
     "chinese_name_traditional": "雪蘭莪",
     "tamil_name": "சிலாங்கூர்",
+    "flag_url": "https://en.wikipedia.org/wiki/Selangor#/media/File:Flag_of_Selangor.svg",
+    "crest_url": "https://en.wikipedia.org/wiki/Selangor#/media/File:Coat_of_arms_of_Selangor.svg",
     "motto": "Dipelihara Allah",
     "anthem": "Duli Yang Maha Mulia",
     "coordinates": "3°20′N 101°30′E",
@@ -21,7 +23,10 @@
     "area": "8.104km2",
     "highest_elevation": "1,830 m (6,004 ft)",
     "population_total": "6,448,400",
-    "population_demonym": "Selangorean / Selangorian",
+    "demonyms": [
+        "Selangorean",
+        "Selangorian"
+    ],
     "human_development_index": "0.855 (very high)",
     "time_zone_summer": "UTC+8 (not observed)",
     "postal_code": [
