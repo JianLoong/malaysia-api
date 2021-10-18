@@ -11,5 +11,12 @@
     "royal_capital": "-",
     "area": "73,904 km2",
     "population": "3,900,000",
+    "administrative_districts": [
+        "West Coast Division",
+        "Interior Division",
+        "Kudat Division",
+        "Sandakan Division",
+        "Tawau Division"
+    ],
     "description": "Sabah (Malay pronunciation: [saˈbah]) is a state of Malaysia located on the northern portion of Borneo, in the region of East Malaysia. Sabah has land borders with the Malaysian state of Sarawak to the southwest and Indonesia's Kalimantan region to the south. The Federal Territory of Labuan is an island just off the Sabah coast. Sabah shares maritime borders with Vietnam to the west and the Philippines to the north and east. Kota Kinabalu is the state capital city, the economic centre of the state, and the seat of the Sabah state government. Other major towns in Sabah include Sandakan and Tawau. The 2015 census recorded a population of 3,543,500 in the state, and in 2019 it was estimated to have grown to over 3.9 million. Sabah has an equatorial climate with tropical rainforests and abundant animal and plant species. The state has long mountain ranges on the west side which forms part of the Crocker Range National Park. Kinabatangan River, the second longest river in Malaysia runs through Sabah, and Mount Kinabalu is the highest point of Sabah as well as of Malaysia. "
 }
