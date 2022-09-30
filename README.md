@@ -6,7 +6,7 @@ All information are obtained from Wikipedia.
 
 If you have noticed some mistakes or bugs, or maybe you have any suggestions please create an issue.
 
-This API is meant to be a read-only web API.
+This API is meant to be a read-only web API. It is **intentional** for files to be stored this way (json format) as it avoids using any database engine.
 
 # Introduction
 
