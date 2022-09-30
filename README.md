@@ -6,6 +6,8 @@ All information are obtained from Wikipedia.
 
 If you have noticed some mistakes or bugs, or maybe you have any suggestions please create an issue.
 
+This API is meant to be a read-only web API.
+
 # Introduction
 
 The states and federal territories of Malaysia are the principal administrative divisions of Malaysia. Malaysia is a federation of 13 states (Negeri) and 3 federal territories (Wilayah Persekutuan).
