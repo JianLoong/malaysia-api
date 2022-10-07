@@ -12,5 +12,13 @@
     "area": "819km2",
     "population": "254,400",
     "administrative_districts": [],
+
+    "unemployment_rate" : [
+        {
+            "year" : 2020,
+            "unemployed_percent": 4.3 
+        }
+    ],
+    
     "description": "Perlis or also known by its popular honorific title Perlis Indera Kayangan is the smallest state in Malaysia located at the northern part of the west coast of Peninsular Malaysia and has the Satun and Songkhla Provinces of Thailand on its northern border. It is bordered by the state of Kedah to the south. It was called Palit (Thai: ปะลิส) by the Siamese when it was under their influence. Perlis had a population of 227,025 as of the 2010 census. The capital of Perlis is Kangar, and the royal capital is Arau. Another important town is Padang Besar, at the Malaysia–Thailand border and Kuala Perlis, the ferry town to Langkawi. The main port and ferry terminal is at the small village of Kuala Perlis, linking mostly to Langkawi Island. Another important lately developed area is Pauh Putra within subdistrict of Kurong Anai which houses the main campus of Malaysia University of Perlis and Politeknik Tuanku Syed Sirajuddin. Perlis has a famous snake farm and research centre at Sungai Batu Pahat. Perlis State Park and Gua Kelam are among the popular tourist attractions. Perlis currently has an island within its waters, Pulau Batu Layang near Perlis Power Plant, Kuala Sungai Bharu. Historically, Perlis owned another island, Pulau Brasmana just approximately 10 km from Kuala Perlis. The island's name is the origin name for Putra Brasmana Hotel. However, the island is now under Thailand administration and known as Ko Pratmana. The reason for this change is still unknown."
 }
