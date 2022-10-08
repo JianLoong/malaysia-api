@@ -28,6 +28,7 @@
             "unemployed_percent": 4.1 
         }
     ],
-    
+    "total_active_vehicles": 430896,
+    "total_inactive_vehicles":271167,
     "description": "Terengganu (Malay pronunciation: [tərəŋɡanu]; Terengganu Malay: Tranung, Jawi: ترڠݢانو), formerly spelled Trengganu or Tringganu, is a sultanate and constitutive state of federal Malaysia. The state is also known by its Arabic honorific, Dāru l-Īmān (\"Abode of Faith\"). The coastal city of Kuala Terengganu which stands at the mouth of the broad Terengganu River is both the state and royal capital as well as the largest city in Terengganu. There are many islands located close to the coast of Terengganu state, such as Perhentian Islands and Redang Island. "
 }
