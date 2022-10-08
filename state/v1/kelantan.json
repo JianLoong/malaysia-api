@@ -24,12 +24,14 @@
         "Jeli"
     ],
 
- "unemployment_rate" : [
+    "unemployment_rate" : [
         {
             "year" : 2020,
             "unemployed_percent": 4.3 
         }
     ],
+    "total_active_vehicles": 502806,
+    "total_inactive_vehicles":431756,
 
     "description": "Kelantan (Malay pronunciation: [kəˈlantan]; Jawi: کلنتن; Kelantan Malay: Kelaté) is a state in Malaysia. The capital is Kota Bharu and royal seat is Kubang Kerian. The honorific name of the state is Darul Naim (Jawi: دار النعيم, 'The Blissful Abode'). Kelantan is located in the north-eastern corner of the peninsula. Kelantan, which is said to translate as the Land of Lightning' (see alternate theories below), is an agrarian state with green paddy fields, rustic fishing villages and casuarina-lined beaches. Kelantan is home to some of the most ancient archaeological discoveries in Malaysia, including several prehistoric aboriginal settlements. Due to Kelantan's relative isolation and largely rural lifestyle, Kelantanese culture differs somewhat from Malay culture in the rest of the peninsula; this is reflected in the cuisine, arts and the unique Kelantanese Malay language, which is unintelligible even for some speakers of standard Malay. Kelantan is positioned in the north-east of the      Malay Peninsula. It is bordered by Narathiwat Province of Thailand to the north, Terengganu to the south-east, Perak to the west and Pahang to the south. To the north-east of Kelantan is the South China Sea."
 }
