@@ -25,14 +25,13 @@
         "Muallim",
         "Bagan Datuk"
     ],
-
-    "unemployment_rate" : [
+    "unemployment_rate": [
         {
-            "year" : 2020,
-            "unemployed_percent": 4.8 
+            "year": 2020,
+            "unemployed_percent": 4.8
         }
     ],
     "total_active_vehicles": 1317537,
-    "total_inactive_vehicles":1052342,
+    "total_inactive_vehicles": 1052342,
     "description": "Perak (Malay pronunciation: [peraʔ]) is a state of Malaysia on the west coast of the Malay Peninsula. Perak has land borders with the Malaysian states of Kedah to the north, Penang to the northwest, Kelantan and Pahang to the east, and Selangor to the south. Thailand's Yala and Narathiwat provinces both lie to the northeast. Perak's capital city, Ipoh, was known historically for its tin-mining activities until the price of the metal dropped, severely affecting the state's economy. The royal capital remains Kuala Kangsar, where the palace of the Sultan of Perak is located. As of 2018, the state's population was 2,500,000. Perak has diverse tropical rainforests and an equatorial climate. The state's mountain ranges belong to the Titiwangsa Range, which is part of the larger Tenasserim Range connecting Thailand, Myanmar and Malaysia. Perak's Mount Korbu is the highest point of the range. "
 }

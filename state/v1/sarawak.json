@@ -26,14 +26,13 @@
         "Mukah",
         "Serian"
     ],
-
-    "unemployment_rate" : [
+    "unemployment_rate": [
         {
-            "year" : 2020,
-            "unemployed_percent": 4.3 
+            "year": 2020,
+            "unemployed_percent": 4.3
         }
     ],
     "total_active_vehicles": 1173100,
-    "total_inactive_vehicles":763567,
+    "total_inactive_vehicles": 763567,
     "description": "Sarawak (/səˈrɑːwɒk/; Malay: [saˈrawaʔ]) is a state within Malaysia. The largest among the 13 states, with an area almost equal to that of Peninsular Malaysia, Sarawak is located in northwest Borneo Island, and is bordered by the Malaysian state of Sabah to the northeast, Kalimantan (the Indonesian portion of Borneo) to the south, and Brunei in the north. The capital city, Kuching, is the largest city in Sarawak, the economic centre of the state, and the seat of the Sarawak state government. Other cities and towns in Sarawak include Miri, Sibu, and Bintulu. As of the 2020 census, the population of Sarawak was estimated over 2,907,500. Sarawak has an equatorial climate with tropical rainforests and abundant animal and plant species. It has several prominent cave systems at Gunung Mulu National Park. Rajang River is the longest river in Malaysia; Bakun Dam, one of the largest dams in Southeast Asia, is located on one of its tributaries, the Balui River. Mount Murud is the highest point in Sarawak. "
 }
