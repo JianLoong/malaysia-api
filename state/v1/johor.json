@@ -19,7 +19,7 @@
     "government_menteri_besar": "Hasni Mohammad",
     "area": "19,166km2",
     "highest_elevation": "1,276 m (4,186 ft)",
-    "population_total": "3,700,000",
+    "population_total": 3700000,
     "population_density": "174/km2",
     "demonyms": [
         "Johoreab",
@@ -33,7 +33,7 @@
     "time_zone": "UTC+8",
     "postal_code": [
         "79xxx to 86xxx",
-        "73400"
+        73400
     ],
     "calling_code": [
         "07",
