@@ -12,7 +12,11 @@
     "royal_capital": "-",
     "area": "1,664 km2 ",
     "population": 932700,
-    "administrative_districts": [],
+    "administrative_districts": [
+        "Alor Gajah",
+        "Jasin",
+        "Melaka Tengah"
+    ],
     "unemployment_rate": [
         {
             "year": 2020,
