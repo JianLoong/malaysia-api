@@ -8,10 +8,20 @@
     "tamil_name": "பகாங்கு",
     "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Penang_%28Malaysia%29.svg",
     "motto": "Ya Latif",
+    "anthem": "Allah Selamatkan Sultan Kami",
     "capital": "Kuantan",
     "royal_capital": "Pekan",
     "area": "35,965 km2",
+    "coordinates": "3.8126° N, 103.3256° E",
     "population": 1623200,
+    "calling_code": "09",
+    "ISO_3166_code": "MY-06",
+    "vehicle_registration": "C",
+    "website": ["www.pahang.gov.my"],
+    "government_type": [
+        "Parliamentary",
+        "constitutional monarchy"
+    ],
     "administrative_districts": [
         "Bera",
         "Bentong",
