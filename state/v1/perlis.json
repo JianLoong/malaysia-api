@@ -13,7 +13,11 @@
     "royal_capital": "Arau",
     "area": "819km2",
     "population": 254400,
-    "administrative_districts": [],
+    "administrative_districts": [
+        "Padang Besar",
+        "Kangar",
+        "Arau"
+    ],
     "unemployment_rate": [
         {
             "year": 2020,
