@@ -3,16 +3,40 @@
     "administrative_division": "State of Malaysia",
     "full_name": "Malacca",
     "jawi_name": "ملاک",
-    "chinese_name_simplified": "-",
+    "chinese_name_simplified": "马六甲",
     "chinese_name_traditional": "馬六甲",
     "tamil_name": "மலாக்கா",
     "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Malacca.svg",
     "crest_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Coat_of_arms_of_Malacca_New.svg/1280px-Coat_of_arms_of_Malacca_New.svg.png",
     "motto": "Bersatu Teguh(Firmly United)",
+    "anthem": "Melaka Maju Jaya",
+    "coordinates": "2°12′N 102°15′E",
     "capital": "Malacca City",
     "royal_capital": "-",
+    "government_type": [
+        "Parliamentary"
+    ],
+    "chief_minister": "Ab Rauf Yusoh",
     "area": "1,664 km2 ",
-    "population": 932700,
+    "highest elevation": "503 m (1,650 ft)",
+    "population_total": 932700,
+    "demonyms": [
+        "Malacan"
+    ],
+    "human_development_index": "0.835 (very high)",
+    "time_zone_summer": "-",
+    "postal_code": [
+        "75xxx to 78xxx"
+    ],
+    "calling_code": "06",
+    "ISO_3166_code": "MY-04",
+    "vehicle_registration": "M",
+    "federated_into_fms": null,
+    "japanese occupation": 1942,
+    "accession_into_fom": "01 February 1948",
+    "website": [
+        "www.melaka.gov.my"
+    ],
     "administrative_districts": [
         "Alor Gajah",
         "Jasin",
