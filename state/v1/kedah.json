@@ -7,12 +7,25 @@
     "chinese_name_traditional": "吉打",
     "tamil_name": "கடாரம்",
     "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_Kedah.svg",
-    "crest_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Coat_of_arms_of_Kedah.svg/1280px-Coat_of_arms_of_Kedah.svg.png",
+    "crest_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Coat_of_arms_of_Kedah.svg/1280px-Coat_of_arms_of_Kedah.svg.png",
     "motto": "Kedah Sejahtera, Nikmat Untuk Semua",
     "capital": "Alor Setar",
     "royal_capital": "Anak Bukit",
-    "area": "9,500km2",
-    "population": 2071900,
+    "government_sultan": "Sallehuddin",
+    "government_menteri_besar": "Muhammad Sanusi Md Nor",
+    "area": "9,492km2",
+    "population_total": 2194100,
+    "demonyms": "Kedahan",
+    "postal_code": "05xxx to 09xxx",
+    "calling_code": [
+        "04",
+        "08"
+    ],
+    "ISO_3166_code": "MY-02",
+    "vehicle_registration": [
+        "K",
+        "KV"
+    ],
     "administrative_districts": [
         "Alor Setar",
         "Baling",
@@ -29,6 +42,7 @@
         "Yan",
         "Sungai Petani"
     ],
+    "website": "https://www.kedah.gov.my/",
     "unemployment_rate": [
         {
             "year": 2020,
