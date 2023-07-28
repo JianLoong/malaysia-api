@@ -2,17 +2,37 @@
     "name": "Sabah",
     "administrative_division": "State of Malaysia",
     "full_name": "-",
-    "jawi_name": "-",
-    "chinese_name_simplified": "-",
+    "jawi_name": "سابه",
+    "chinese_name_simplified": "沙巴",
     "chinese_name_traditional": "-",
-    "tamil_name": "-",
+    "tamil_name": "சபா",
     "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Sabah.svg",
     "crest_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Coat_of_arms_of_Sabah.svg/1280px-Coat_of_arms_of_Sabah.svg.png",
     "motto": "Sabah Maju Jaya",
+    "anthem": "Sabah Tanah Airku",
+    "coordinates": "5°15′N 117°0′E",
     "capital": "Kota Kinabalu",
     "royal_capital": "-",
     "area": "73,904 km2",
+    "highest_elevation": "4,095 m (13,435 ft)",
     "population": 3900000,
+    "population_density": "46/km2",
+    "chief_minister": "Hajiji Noor",
+    "demonyms": "Sabahan",
+    "state_index": {
+        "human_development_index": "0.710 (high)",
+        "total_fertility_rate": "1.4",
+        "gross_domestic_product": "RM85,647 million"
+    },
+    "time_zone": "UTC+8",
+    "postal_code": "88xxx to 91xxx",
+    "calling_code": [
+        "087",
+        "088",
+        "089"
+    ],
+    "iso_3166_code": "MY-12",
+    "vehicle_registration": "S",
     "administrative_districts": [
         "West Coast Division",
         "Interior Division",
@@ -20,6 +40,8 @@
         "Sandakan Division",
         "Tawau Division"
     ],
+    "former_name": "North Borneo",
+    "Website": "https://sabah.gov.my/",
     "unemployment_rate": [
         {
             "year": 2020,
