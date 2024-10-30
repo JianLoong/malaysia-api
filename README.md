@@ -17,8 +17,7 @@ The states and federal territories of Malaysia are the principal administrative 
 The aim of this API is to provide static information that will be consumed by other applications.
 
 # List of End Points
-
-The current base url is [https://jian.sh/malaysia-api](https://jianliew.me/malaysia-api)
+The current base url is [https://jian.sh/malaysia-api](https://jian.sh/malaysia-api/)
 
 | State / Federal Territories | End Point                      | Status |                                                                        |
 | --------------------------- | ------------------------------ | ------ | ---------------------------------------------------------------------- |
