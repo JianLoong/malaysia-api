@@ -17,34 +17,34 @@ The states and federal territories of Malaysia are the principal administrative 
 The aim of this API is to provide static information that will be consumed by other applications.
 
 # List of End Points
-The current base url is [https://jian.sh/malaysia-api](https://jian.sh/malaysia-api/)
+The current base url is [https://pangrammer.dev/malaysia-api](https://pangrammer.dev/malaysia-api/)
 
 | State / Federal Territories | End Point                      | Status |                                                                        |
 | --------------------------- | ------------------------------ | ------ | ---------------------------------------------------------------------- |
-| All                         | /state/v1/all.json             | x      | [Test](https://jian.sh/malaysia-api/state/v1/all.json)             |
-| Johor                       | /state/v1/johor.json           | x      | [Test](https://jian.sh/malaysia-api/state/v1/johor.json)           |
-| Kedah                       | /state/v1/kedah.json           | x      | [Test](https://jian.sh/malaysia-api/state/v1/kedah.json)           |
-| Kelantan                    | /state/v1/kelantan.json        | x      | [Test](https://jian.sh/malaysia-api/state/v1/kelantan.json)        |
-| Malacca                     | /state/v1/malacca.json         | x      | [Test](https://jian.sh/malaysia-api/state/v1/malacca.json)         |
-| Negeri Sembilan             | /state/v1/negeri_sembilan.json | x      | [Test](https://jian.sh/malaysia-api/state/v1/negeri_sembilan.json) |
-| Pahang                      | /state/v1/pahang.json          | x      | [Test](https://jian.sh/malaysia-api/state/v1/pahang.json)          |
-| Penang                      | /state/v1/penang.json          | x      | [Test](https://jian.sh/malaysia-api/state/v1/penang.json)          |
-| Perak                       | /state/v1/perak.json           | x      | [Test](https://jian.sh/malaysia-api/state/v1/perak.json)           |
-| Perlis                      | /state/v1/perlis.json          | x      | [Test](https://jian.sh/malaysia-api/state/v1/perlis.json)          |
-| Sabah                       | /state/v1/sabah.json           | x      | [Test](https://jian.sh/malaysia-api/state/v1/sabah.json)           |
-| Sarawak                     | /state/v1/sarawak.json         | x      | [Test](https://jian.sh/malaysia-api/state/v1/sarawak.json)         |
-| Selangor                    | /state/v1/selangor.json        | x      | [Test](https://jian.sh/malaysia-api/state/v1/selangor.json)        |
-| Terengganu                  | /state/v1/terengganu.json      | x      | [Test](https://jian.sh/malaysia-api/state/v1/kelantan.json)        |
-| Kuala Lumpur                | /state/v1/kuala_lumpur.json    | x      | [Test](https://jian.sh/malaysia-api/state/v1/kuala_lumpur.json)    |
-| Labuan                      | /state/v1/labuan.json          | x      | [Test](https://jian.sh/malaysia-api/state/v1/labuan.json)          |
-| Putrajaya                   | /state/v1/putrajaya.json       | x      | [Test](https://jian.sh/malaysia-api/state/v1/putrajaya.json)       |
+| All                         | /state/v1/all.json             | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/all.json)             |
+| Johor                       | /state/v1/johor.json           | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/johor.json)           |
+| Kedah                       | /state/v1/kedah.json           | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/kedah.json)           |
+| Kelantan                    | /state/v1/kelantan.json        | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/kelantan.json)        |
+| Malacca                     | /state/v1/malacca.json         | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/malacca.json)         |
+| Negeri Sembilan             | /state/v1/negeri_sembilan.json | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/negeri_sembilan.json) |
+| Pahang                      | /state/v1/pahang.json          | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/pahang.json)          |
+| Penang                      | /state/v1/penang.json          | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/penang.json)          |
+| Perak                       | /state/v1/perak.json           | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/perak.json)           |
+| Perlis                      | /state/v1/perlis.json          | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/perlis.json)          |
+| Sabah                       | /state/v1/sabah.json           | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/sabah.json)           |
+| Sarawak                     | /state/v1/sarawak.json         | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/sarawak.json)         |
+| Selangor                    | /state/v1/selangor.json        | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/selangor.json)        |
+| Terengganu                  | /state/v1/terengganu.json      | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/kelantan.json)        |
+| Kuala Lumpur                | /state/v1/kuala_lumpur.json    | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/kuala_lumpur.json)    |
+| Labuan                      | /state/v1/labuan.json          | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/labuan.json)          |
+| Putrajaya                   | /state/v1/putrajaya.json       | x      | [Test](https://pangrammer.dev/malaysia-api/state/v1/putrajaya.json)       |
 
 _x_ indicates that the entry is completed.
 
 # Usage Example
 
 ```bash
-curl https://jian.sh/malaysia-api/state/v1/selangor.json
+curl https://pangrammer.dev/malaysia-api/state/v1/selangor.json
 ```
 
 would retrieve
